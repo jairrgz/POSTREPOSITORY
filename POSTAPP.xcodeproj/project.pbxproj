@@ -54,7 +54,7 @@
 		691AA7662D2AFED100AF4E98 /* CreatePostViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePostViewModel.swift; sourceTree = "<group>"; };
 		691AA76A2D2AFF1700AF4E98 /* CreatePostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePostView.swift; sourceTree = "<group>"; };
 		691AA76E2D2B035D00AF4E98 /* Extension+ Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+ Color.swift"; sourceTree = "<group>"; };
-		691AA77A2D2B1E6200AF4E98 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
+		691AA77A2D2B1E6200AF4E98 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = Readme.md; path = POSTAPP/Readme.md; sourceTree = "<group>"; };
 		691F8B202D2AFCBB006F6761 /* POSTAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = POSTAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		691F8B232D2AFCBB006F6761 /* POSTAPPApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POSTAPPApp.swift; sourceTree = "<group>"; };
 		691F8B272D2AFCBD006F6761 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -137,6 +137,7 @@
 		691F8B172D2AFCBB006F6761 = {
 			isa = PBXGroup;
 			children = (
+				691AA77A2D2B1E6200AF4E98 /* Readme.md */,
 				691F8B222D2AFCBB006F6761 /* POSTAPP */,
 				691F8B342D2AFCBD006F6761 /* POSTAPPTests */,
 				691F8B3E2D2AFCBD006F6761 /* POSTAPPUITests */,
@@ -166,7 +167,6 @@
 				691F8B272D2AFCBD006F6761 /* Assets.xcassets */,
 				691F8B292D2AFCBD006F6761 /* POSTAPP.entitlements */,
 				691F8B2A2D2AFCBD006F6761 /* Preview Content */,
-				691AA77A2D2B1E6200AF4E98 /* Readme.md */,
 			);
 			path = POSTAPP;
 			sourceTree = "<group>";
