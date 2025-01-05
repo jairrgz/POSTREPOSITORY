@@ -34,36 +34,6 @@
             endingLineNumber = "75"
             landmarkName = "mockRandomPost()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "8F87FEFA-EF55-444A-85A2-5BF8FEC77866 - 2d77d0a4029eeec2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "POSTAPP.NetworkService.mockRandomPost() async throws -&gt; POSTAPP.CreatePostResponse"
-                  moduleName = "POSTAPP"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jramirzu/Desktop/POST/POSTAPP/POSTAPP/Red/NetworkService.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "75"
-                  endingLineNumber = "75">
-               </Location>
-               <Location
-                  uuid = "8F87FEFA-EF55-444A-85A2-5BF8FEC77866 - cb9de25fead04a95"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for POSTAPP.NetworkService.mockRandomPost() async throws -&gt; POSTAPP.CreatePostResponse"
-                  moduleName = "POSTAPP"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/jramirzu/Desktop/POST/POSTAPP/POSTAPP/Red/NetworkService.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "75"
-                  endingLineNumber = "75">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

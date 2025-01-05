@@ -27,7 +27,6 @@
 		691F8B2C2D2AFCBD006F6761 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 691F8B2B2D2AFCBD006F6761 /* Preview Assets.xcassets */; };
 		691F8B362D2AFCBD006F6761 /* POSTAPPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691F8B352D2AFCBD006F6761 /* POSTAPPTests.swift */; };
 		691F8B402D2AFCBD006F6761 /* POSTAPPUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691F8B3F2D2AFCBD006F6761 /* POSTAPPUITests.swift */; };
-		691F8B422D2AFCBD006F6761 /* POSTAPPUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691F8B412D2AFCBD006F6761 /* POSTAPPUITestsLaunchTests.swift */; };
 		691F8B4F2D2AFDE6006F6761 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691F8B4E2D2AFDE6006F6761 /* Post.swift */; };
 /* End PBXBuildFile section */
 
@@ -55,6 +54,7 @@
 		691AA7662D2AFED100AF4E98 /* CreatePostViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePostViewModel.swift; sourceTree = "<group>"; };
 		691AA76A2D2AFF1700AF4E98 /* CreatePostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePostView.swift; sourceTree = "<group>"; };
 		691AA76E2D2B035D00AF4E98 /* Extension+ Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+ Color.swift"; sourceTree = "<group>"; };
+		691AA77A2D2B1E6200AF4E98 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		691F8B202D2AFCBB006F6761 /* POSTAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = POSTAPP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		691F8B232D2AFCBB006F6761 /* POSTAPPApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POSTAPPApp.swift; sourceTree = "<group>"; };
 		691F8B272D2AFCBD006F6761 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -64,7 +64,6 @@
 		691F8B352D2AFCBD006F6761 /* POSTAPPTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POSTAPPTests.swift; sourceTree = "<group>"; };
 		691F8B3B2D2AFCBD006F6761 /* POSTAPPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = POSTAPPUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		691F8B3F2D2AFCBD006F6761 /* POSTAPPUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POSTAPPUITests.swift; sourceTree = "<group>"; };
-		691F8B412D2AFCBD006F6761 /* POSTAPPUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POSTAPPUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		691F8B4E2D2AFDE6006F6761 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -167,6 +166,7 @@
 				691F8B272D2AFCBD006F6761 /* Assets.xcassets */,
 				691F8B292D2AFCBD006F6761 /* POSTAPP.entitlements */,
 				691F8B2A2D2AFCBD006F6761 /* Preview Content */,
+				691AA77A2D2B1E6200AF4E98 /* Readme.md */,
 			);
 			path = POSTAPP;
 			sourceTree = "<group>";
@@ -191,7 +191,6 @@
 			isa = PBXGroup;
 			children = (
 				691F8B3F2D2AFCBD006F6761 /* POSTAPPUITests.swift */,
-				691F8B412D2AFCBD006F6761 /* POSTAPPUITestsLaunchTests.swift */,
 			);
 			path = POSTAPPUITests;
 			sourceTree = "<group>";
@@ -353,7 +352,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				691F8B422D2AFCBD006F6761 /* POSTAPPUITestsLaunchTests.swift in Sources */,
 				691AA7792D2B11B700AF4E98 /* NetworkError.swift in Sources */,
 				691F8B402D2AFCBD006F6761 /* POSTAPPUITests.swift in Sources */,
 				691AA7752D2B0E8200AF4E98 /* CreatePostResponse.swift in Sources */,
